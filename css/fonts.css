@@ -1,0 +1,25 @@
+/* font-family: josefin_sans */
+@font-face{
+   font-family: josefin_sans;
+    scr: url('../google fonts/Josefin_Sans/JosefinSans-Italic-VariableFont_wght.ttf')
+}
+/* font-family: lato */
+@font-face{
+   font-family: lato;
+    scr: url('../google fonts/Lato/Lato-Italic.ttf')
+}
+/* font-family: montserrat*/
+@font-face{
+   font-family: montserrat;
+    scr: url('../google fonts/Montserrat/Montserrat-BlackItalic.ttf')
+}
+/* font-family: roboto*/
+@font-face{
+   font-family: roboto;
+    scr: url('../google fonts/Roboto/Roboto-MediumItalic.ttf')
+}
+/* font-family: raleway*/
+@font-face{
+   font-family: raleway;
+    scr: url('../google fonts/Raleway/Raleway-VariableFont_wght.ttf')
+}
